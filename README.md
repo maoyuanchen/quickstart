@@ -5,6 +5,7 @@
 - 注意环境变量配置
 ### Android Studio (Android SDK Tool)
 - 注意SDK环境变量配置
+
 [Download](http://www.android-studio.org/)
 ### Oracle VM VirtualBox (Genymotion 安卓模拟器运行依赖)
 - 需要CPU支持虚拟化
@@ -19,6 +20,6 @@ sudo spctl --master-disable
 [React Native DOC](https://reactnative.cn/)
 ### Ant Design Mobile RN of React (一个基于 React Native 的 UI 组件库)
 [Ant Design Mobile RN DOC](https://rn.mobile.ant.design/docs/react/introduce-cn)
-- 在 WebStorm 中开发项目，一定要通过 WebStorm install，否则会中编译时报错。
+- 在 WebStorm 中开发项目，一定要通过 WebStorm install，否则会在编译时报错。
 ### ReactNative-LiveTemplate (WebStorm React Native 代码提示)
 [virtoolswebplayer/ReactNative-LiveTemplate](https://github.com/virtoolswebplayer/ReactNative-LiveTemplate)
