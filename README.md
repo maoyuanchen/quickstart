@@ -1,10 +1,10 @@
 # React Native 学习备忘录
 
-### React Native CN
+### React Native 中文站
 
 [文档、教程](https://reactnative.cn/)
 
-### React Native 视频教程
+### React Native 视频教程、课件和示例代码
 
 [百度云盘](https://pan.baidu.com/s/1ef5LT4jWrt1jHmEwXQgFOQ)
 
@@ -22,12 +22,12 @@ git config --global http.postBuffer 524288000
 
 ### Node.js
 
-- 注意 环境变量配置
+- 注意环境变量配置
 
 ### Android Studio (Android SDK Tool)
 
 - Java SDK 1.8
-- 注意 环境变量配置
+- 注意环境变量配置
 
 [下载](http://www.android-studio.org/)
 
@@ -58,11 +58,6 @@ sudo spctl --master-disable
 
 ### WebStorm
 
-- 注意 将`javascirpt`版本换成`React JSX`或`Flow`
-- Plugin [React Native Console](https://github.com/beansoftapp/react-native-console )
-
-### ReactNative-LiveTemplate
-
-- WebStorm React Native 代码提示插件。
-
-[virtoolswebplayer/ReactNative-LiveTemplate](https://github.com/virtoolswebplayer/ReactNative-LiveTemplate)
+- 注意将 `javascirpt` 版本换成 `React JSX` 或 `Flow`
+- 运行、调试插件 [React Native Console](https://github.com/beansoftapp/react-native-console )
+- 代码提示插件 [virtoolswebplayer/ReactNative-LiveTemplate](https://github.com/virtoolswebplayer/ReactNative-LiveTemplate)
