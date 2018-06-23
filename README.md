@@ -1,5 +1,9 @@
 # React Native 学习备忘录
 
+### React Native CN
+
+[文档、教程](https://reactnative.cn/)
+
 ### React Native 视频教程
 
 [百度云盘](https://pan.baidu.com/s/1ef5LT4jWrt1jHmEwXQgFOQ)
@@ -18,14 +22,14 @@ git config --global http.postBuffer 524288000
 
 ### Node.js
 
-- 注意环境变量配置
+- 注意 环境变量配置
 
 ### Android Studio (Android SDK Tool)
 
 - Java SDK 1.8
-- 注意环境变量配置
+- 注意 环境变量配置
 
-[Download](http://www.android-studio.org/)
+[下载](http://www.android-studio.org/)
 
 ### Oracle VM VirtualBox
 
@@ -37,30 +41,28 @@ git config --global http.postBuffer 524288000
 sudo spctl --master-disable
 ```
 
-[Download](https://www.virtualbox.org/wiki/Downloads)
+[下载](https://www.virtualbox.org/wiki/Downloads)
 
 ### Genymotion 安卓模拟器
 
-[Download](https://www.genymotion.com/download/)
+- 先注册，再下载，个人免费。
 
-### React Native CN
-
-[React Native DOC](https://reactnative.cn/)
+[下载](https://www.genymotion.com/download/)
 
 ### Ant Design Mobile RN of React
 
-- 一个基于 React Native 的 UI 组件库
+- 一个基于 React Native 的 UI 组件库。
 - 在 WebStorm 中开发，组件一定要通过 WebStorm install，否则会在编译时报错。
 
-[Ant Design Mobile RN DOC](https://rn.mobile.ant.design/docs/react/introduce-cn)
+[官方文档](https://rn.mobile.ant.design/docs/react/introduce-cn)
 
 ### WebStorm
 
-- IDE
-- 注意将`javascirpt`语法规则换成`React JSX`
+- 注意 将`javascirpt`版本换成`React JSX`或`Flow`
+- Plugin [React Native Console](https://github.com/beansoftapp/react-native-console )
 
 ### ReactNative-LiveTemplate
 
-- WebStorm React Native 代码提示插件
+- WebStorm React Native 代码提示插件。
 
 [virtoolswebplayer/ReactNative-LiveTemplate](https://github.com/virtoolswebplayer/ReactNative-LiveTemplate)
